@@ -88,7 +88,7 @@ CORS_ORIGIN_WHITELIST = (
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'db_hodersea_backup',
+        'NAME': 'db_hodersea',
         'USER': 'root',
         'PASSWORD': "",
         'HOST': "",
